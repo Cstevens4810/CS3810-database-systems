@@ -6,7 +6,7 @@
 
  
  
- --Query #1 How many passengers departed Colorado on all airlines?
+ --Query #1 
 
 
 
@@ -18,7 +18,7 @@ where ORIGIN_STATE_NM = 'Colorado'
 
 
 
---Query #2 How much freight departed Colorado?
+--Query #2 
 
 
 
@@ -30,7 +30,7 @@ where ORIGIN_STATE_NM = 'Colorado'
 
 
 
---Query #3 How many people arrived in CO from outside CO 
+--Query #3 
 
 
 
