@@ -30,8 +30,8 @@ CREATE TABLE Airline(
 );
 
 CREATE TABLE Flight(
-	originCode INT,
-	destCode INT,
+	originAirportCode INT,
+	destAirportCode INT,
 	AirlineCode INT,
 	uniqueFlightNum INT,
 	deptDate VARCHAR(10),
@@ -41,7 +41,19 @@ CREATE TABLE Flight(
 	arrivalHour INT,
 	arrivalMin INT, 
 	primary key (uniqueFlightNum),
-	foreign key (AirlineCode) REFERENCES Airline(AirlineCode)
+	foreign key (AirlineCode) REFERENCES Airline(AirlineCode),
+	foreign key (originAirportCode) REFERENCES Airports(airportCode),
+	foreign key (destAirportCode) REFERENCES Airports(airportCode)
+);
+
+--This is meant to correct the origin and destination code, there is now a table that will reference the airport and show where it is 
+
+CREATE TABLE Airports(
+	airportCode INT,
+	cityName VARCHAR(20),
+	stateCode VARCHAR(5),
+	countryName VARCHAR(50),
+	primary key (airportCode)
 );
 
 CREATE TABLE Booking(
