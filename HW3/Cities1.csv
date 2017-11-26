@@ -1,0 +1,153 @@
+CITY_MARKET_ID,CITY_NAME,STATE_FIPS
+32575,"Long Beach, CA",6
+30325,"Denver, CO",8
+32457,"San Francisco, CA",6
+31423,"Des Moines, IA",19
+31315,"Dickinson, ND",38
+31503,"Eagle, CO",8
+31123,"St. Louis, MO",29
+32544,"CONCORD, NC",37
+30397,"Atlanta, GA",13
+30189,"Colorado Springs, CO",8
+32211,"Las Vegas, NV",32
+30372,"Aspen, CO",8
+34614,"Salt Lake City, UT",49
+34100,"Philadelphia, PA",42
+31122,"Casper, WY",56
+31295,"Detroit, MI",26
+31650,"Minneapolis, MN",27
+33851,"Oklahoma City, OK",40
+30529,"Hartford, CT",9
+30558,"Scottsbluff, NE",31
+33198,"Kansas City, MO",29
+31233,"Cheyenne, WY",56
+30194,"Dallas, TX",48
+30423,"Austin, TX",48
+31066,"Columbus, OH",39
+34792,"Sugar Land, TX",48
+30466,"Phoenix, AZ",4
+30747,"Brownsville, TX",48
+31563,"Wendover, UT",49
+31921,"Grand Junction, CO",8
+34576,"Rochester, NY",36
+34653,"Tulsa, OK",40
+30977,"Chicago, IL",17
+34570,"Reno, NV",32
+31719,"Fort Collins/Loveland, CO",8
+30590,"Bullhead City, AZ",4
+33502,"Montrose/Delta, CO",8
+34288,"Pueblo, CO",8
+31840,"Gadsden, AL",1
+33105,"Cincinnati, OH",21
+30559,"Seattle, WA",53
+31283,"Dodge City, KS",20
+31468,"Kearney, NE",31
+32899,"North Platte, NE",31
+32902,"Liberal, KS",20
+32389,"Williston, ND",38
+31454,"Orlando, FL",12
+34492,"Raleigh/Durham, NC",37
+31986,"Grand Rapids, MI",26
+31097,"Cody, WY",56
+30852,"Washington, DC",51
+31453,"Houston, TX",48
+32441,"Jackson, WY",56
+32888,"Laramie, WY",56
+32600,"Little Rock, AR",5
+33264,"Medford, OR",41
+33486,"Missoula, MT",30
+34057,"Portland, OR",41
+34252,"Pasco/Kennewick/Richland, WA",53
+33570,"San Diego, CA",6
+33214,"San Antonio, TX",48
+34794,"St. George, UT",49
+33192,"Sacramento, CA",6
+30140,"Albuquerque, NM",35
+30721,"Boston, MA",25
+30849,"Bozeman, MT",30
+34262,"Palm Springs, CA",6
+34524,"Richmond, VA",51
+34689,"Santa Barbara, CA",6
+30994,"Charleston, SC",45
+30647,"Cleveland, OH",39
+33495,"New Orleans, LA",22
+30198,"Pittsburgh, PA",42
+31714,"Fort Myers, FL",12
+30928,"Wichita, KS",20
+33044,"Louisville, KY",21
+32337,"Indianapolis, IN",18
+33195,"Tampa, FL",12
+35412,"Knoxville, TN",47
+33244,"Memphis, TN",47
+30285,"Durango, CO",8
+34877,"Salina, KS",20
+31638,"Fresno, CA",6
+31895,"Great Falls, MT",30
+31834,"Fayetteville, AR",5
+31603,"Eugene, OR",41
+31703,"Newark, NJ",34
+31884,"Spokane, WA",53
+30436,"Tucson, AZ",4
+30713,"Boise, ID",16
+33485,"Madison, WI",55
+33367,"Moline, IL",17
+30279,"Amarillo, TX",48
+32896,"Lubbock, TX",48
+34457,"Rapid City, SD",46
+31057,"Charlotte, NC",37
+30257,"Albany, NY",36
+33316,"Omaha, NE",31
+33667,"Norfolk, VA",51
+30599,"Birmingham, AL",1
+31003,"Cedar Rapids/Iowa City, IA",19
+30620,"Billings, MT",30
+30476,"Shreveport, LA",22
+34783,"Springfield, MO",29
+31648,"Kalispell, MT",30
+32982,"Lihue, HI",15
+33342,"Milwaukee, WI",55
+30615,"El Paso, TX",48
+32467,"Fort Lauderdale, FL",12
+30693,"Nashville, TN",47
+33304,"Minot, ND",38
+33964,"North Bend/Coos Bay, OR",41
+34489,"Bend/Redmond, OR",41
+31136,"Jacksonville, FL",12
+30561,"Bakersfield, CA",6
+33728,"Pensacola, FL",12
+31775,"Sioux Falls, SD",46
+32012,"Gunnison, CO",8
+34699,"Hayden, CO",8
+30643,"Branson, MO",29
+35177,"Telluride, CO",8
+30950,"Cortez, CO",8
+31995,"Greensboro/High Point, NC",37
+34512,"Rockford, IL",17
+31267,"Dayton, OH",39
+31711,"Farmington, NM",35
+31447,"Devils Lake, ND",38
+33029,"Lincoln, NE",31
+30627,"Bismarck/Mandan, ND",38
+34236,"San Luis Obispo, CA",6
+33158,"Midland/Odessa, TX",48
+32758,"Kona, HI",15
+33830,"Kahului, HI",15
+30272,"Alamosa, CO",8
+32156,"Helena, MT",30
+32519,"Jamestown, ND",38
+32134,"Honolulu, HI",15
+30255,"Huntsville, AL",1
+31637,"Fargo, ND",38
+34534,"Riverton/Lander, WY",56
+30299,"Anchorage, AK",2
+34120,"Pierre, SD",46
+32255,"Hays, KS",20
+30221,"Alliance, NE",31
+30925,"Chadron, NE",31
+33200,"McCook, NE",31
+35582,"Vernal, UT",49
+31865,"Gillette, WY",56
+34543,"Rock Springs, WY",56
+31092,"Moab, UT",49
+34674,"Santa Fe, NM",35
+32280,"Idaho Falls, ID",16
