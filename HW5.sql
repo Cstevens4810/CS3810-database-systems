@@ -60,7 +60,7 @@ CREATE TABLE Booking(
 	bookingNum INT,
 	cityCodeOfBooking INT,
 	uniqueFlightNum INT,
-	payingCustumerEmail VARCHAR(150),
+	payingCustomerEmail VARCHAR(150),
 	primary key (bookingNum),
 	foreign key (uniqueFlightNum) REFERENCES Flight(uniqueFlightNum)
 );
