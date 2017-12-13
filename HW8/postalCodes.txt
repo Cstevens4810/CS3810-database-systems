@@ -1,0 +1,7 @@
+"last","first","postalcode"
+"Stevens","Cooper","80241"
+"Phillips","Kyra","80241"
+"Stevens","Amy","80111"
+"Stevens","John","80111"
+"Stevens","Marjorie","18069"
+"Mccarty","Mike","80906"
